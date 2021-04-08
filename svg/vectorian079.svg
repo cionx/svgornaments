@@ -10,9 +10,9 @@
    version="1.1"
    id="svg2"
    xml:space="preserve"
-   width="336.42667"
-   height="162.66667"
-   viewBox="0 0 336.42667 162.66667"
+   width="331.75012"
+   height="162.66875"
+   viewBox="0 0 331.75013 162.66875"
    sodipodi:docname="vectorian079.pdf"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -24,11 +24,11 @@
          id="path22" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath32"><path
-         d="M 0,-0.05809 H 248.81259 V 123.81529 L 0,123.81529 Z"
+         d="M 0,-0.05809 H 248.81259 V 123.81529 H 0 Z"
          id="path30" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath44"><path
-         d="M 0,-0.05809 H 248.81259 V 123.81529 L 0,123.81529 Z"
+         d="M 0,-0.05809 H 248.81259 V 123.81529 H 0 Z"
          id="path42" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -44,7 +44,7 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="vectorian079"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,162.66667)"><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,162.66874)"><g
        id="g12"
        transform="translate(72,50)"><g
          id="g14"

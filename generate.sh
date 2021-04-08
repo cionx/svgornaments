@@ -5,7 +5,7 @@ do
 	number=$(printf "%03d" $i)
 	sed "s/number/$i/g" template.tex > vectorian$number.tex
 	latexmk vectorian$number.tex
-	inkscape vectorian$number.pdf --export-filename svg/vectorian$number.svg
+	inkscape vectorian$number.pdf --export-area-drawing --export-filename svg/vectorian$number.svg
 done
 
 latexmk -c vectorian*.tex

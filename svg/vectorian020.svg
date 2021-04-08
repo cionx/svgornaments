@@ -10,9 +10,9 @@
    version="1.1"
    id="svg2"
    xml:space="preserve"
-   width="114.14667"
-   height="108.18667"
-   viewBox="0 0 114.14667 108.18667"
+   width="108.01342"
+   height="108.18655"
+   viewBox="0 0 108.01342 108.18656"
    sodipodi:docname="vectorian020.pdf"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -40,7 +40,7 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="vectorian020"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,108.18667)"><g
+     transform="matrix(1.3333333,0,0,-1.3333333,-0.85768435,108.18656)"><g
        id="g12"
        transform="translate(72,9.139)"><g
          id="g14"
